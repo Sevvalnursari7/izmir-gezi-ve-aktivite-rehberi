@@ -1,2 +1,4 @@
 # İZMİR GEZİ VE AKTİVİTE REHBERİ
-Kullanıcılar, İzmir’de popüler ve kaliteli mekanları keşfedebilecek. Bütçeye ve kalış süresine göre kişiye özel rota oluşturulacak. İlgi alanları seçilebilecek, gezi sonrası yorum yapılabilecek ve aktivitelerle ilgili detaylı bilgilere ulaşılabilecek.
+Kullanıcılar, İzmir’de popüler ve kaliteli mekanları keşfedebilecek. 
+
+Bu projeyi büyük bir heyecan ve istekle oluşturdum ve ilerleyen süreçte daha kapsamlı hale getirmeyi planlıyorum. Bütçeye ve kalış süresine göre kişiye özel rota oluşturulacak. İlgi alanları seçilebilecek, gezi sonrası yorum yapılabilecek ve aktivitelerle ilgili detaylı bilgilere ulaşılabilecek. Öncelikli hedefim, Karadeniz ve Ege gibi bölgelere özgü rota ve içerikler oluşturarak projeyi genişletmek. Sonrasında ise Avrupa ve Balkanlar gibi yurtdışı destinasyonlara uyarlayarak daha fazla kullanıcıya ulaşmak ve gezilerini planlamalarında yardımcı olmak istiyorum. Projenin sonraki aşamasında ise bu fikri bir web sitesi haline getirerek kullanıcıların seçtikleri bölge ve ilçelerde gezmek istedikleri yerlerle ilgili kısa, öz ve önemli bilgilere kolayca ulaşabilecekleri bir platform sunmayı hedefliyorum.
